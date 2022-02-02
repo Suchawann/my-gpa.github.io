@@ -1,0 +1,617 @@
+{
+  "curriculum": {
+    "name": "Computer Science",
+    "subjects": [
+      {
+        "groupName": "Language Courses",
+        "subjects": [
+          {
+            "code": "BG 1001",
+            "name": "English I",
+            "credits": "3"
+          },
+          {
+            "code": "BG 1002",
+            "name": "English II",
+            "credits": "3"
+          },
+          {
+            "code": "BG 2000",
+            "name": "English III",
+            "credits": "3"
+          },
+          {
+            "code": "BG 2001",
+            "name": "English IV",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Humanities Courses",
+        "subjects": [
+          {
+            "code": "LAW 1201",
+            "name": "Business Laws for Entrepreneurs",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Social Science Courses",
+        "subjects": [
+          {
+            "code": "GE 2202",
+            "name": "Ethics",
+            "credits": "3"
+          },
+          {
+            "code": "BBA 1001",
+            "name": "Business Exploration",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Science and Mathemetics Courses",
+        "subjects": [
+          {
+            "code": "BAC 1602",
+            "name": "Fundamentals of Financial Accounting I",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 1001",
+            "name": "Basic Mathematics and Statistics",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "General Education Courses",
+        "subjects": [
+          {
+            "code": "GE 1103",
+            "name": "Historical Perspectives on Thailand",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1102",
+            "name": "Introduction to Philosophy",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2102",
+            "name": "Human Heritage and Globalization",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2103",
+            "name": "Art of Reasoning",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2104",
+            "name": "Thai Buddhism",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2105",
+            "name": "Introduction to World Religion",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2106",
+            "name": "Logical Thinking and Application",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2107",
+            "name": "Applied Philosophy in Social Sciences and Humanities",
+            "credits": "3"
+          },
+          {
+            "code": "BBA 2001",
+            "name": "Human Behavior",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1207",
+            "name": "Fundamental Psychology",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1203",
+            "name": "Society, Politics and Economics",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1205",
+            "name": "ASEAN Ways",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1206",
+            "name": "Philosophy of Sufficiency Economy",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2203",
+            "name": "Art of Living",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2205",
+            "name": "Communication and Multicultural society",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2206",
+            "name": "Personality Development",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2207",
+            "name": "Sport, Health and Wellness Development",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2208",
+            "name": "Thai Politics and Government",
+            "credits": "3"
+          },
+          {
+            "code": "BEC 2200",
+            "name": "Introduction to Economics",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1302",
+            "name": "Ecology and Sustainability",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2301",
+            "name": "Lifestyles in Dynamic World",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2302",
+            "name": "Climate Change and Human Life",
+            "credits": "3"
+          },
+          {
+            "code": "GE 2303",
+            "name": "Building Brilliant Brain",
+            "credits": "3"
+          },
+          {
+            "code": "MA 1200",
+            "name": "Mathematics for Business",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1403",
+            "name": "Communication in Thai",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1405",
+            "name": "Thai Language and Culture",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1406",
+            "name": "Burmese Language",
+            "credits": "3"
+          },
+          {
+            "code": "GE 1407",
+            "name": "Russian Language",
+            "credits": "3"
+          },
+          {
+            "code": "GE 3401",
+            "name": "Public Speaking in Thai",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Core Courses",
+        "subjects": [
+          {
+            "code": "CSX 2002",
+            "name": "Calculus",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2003",
+            "name": "Principles of Statistics",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2004",
+            "name": "UI/UX Design and Prototyping",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2005",
+            "name": "Design Thinking",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2006",
+            "name": "Mathematics and Statistics for Data Science",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2007",
+            "name": "Data Science",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2008",
+            "name": "Mathematics Foundation for Computer Science",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Courses",
+        "subjects": [
+          {
+            "code": "CSX 2001",
+            "name": "Introduction to Information Technology",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3010",
+            "name": "Senior Project I",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3011",
+            "name": "Senior Project II",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3001",
+            "name": "Fundamentals of Computer Programming",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3002",
+            "name": "Object-Oriented Concepts and Programming",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3003",
+            "name": "Data Structure and Algorithms",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3004",
+            "name": "Programming Languages",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3009",
+            "name": "Algorithm Design",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 2009",
+            "name": "Cloud Computing",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3005",
+            "name": "Computer Networks",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3006",
+            "name": "Database Systems",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3008",
+            "name": "Operating Systems",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 3007",
+            "name": "Computer Architecture",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses - Group 1(A) Software Engineering and Development ",
+        "subjects": [
+          {
+            "code": "CSX 4101",
+            "name": "Information System Analysis and Design",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4102",
+            "name": "Software Engineering",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4103",
+            "name": "Requirement Engineering",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4104",
+            "name": "Software Testing",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4105",
+            "name": "IT Project Management",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4106",
+            "name": "Enterprise Architecture",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4107",
+            "name": "Web Application Development",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4108",
+            "name": "iOS Application Development",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4109",
+            "name": "Android Application Development",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses - Group 1(B) Informatics and Data Science",
+        "subjects": [
+          {
+            "code": "CSX 4201",
+            "name": "Artificial Intelligence Concepts",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4202",
+            "name": "Data Mining",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4203",
+            "name": "Machine Learning",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4204",
+            "name": "Biometrics",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4205",
+            "name": "Big Data Analytics",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4206",
+            "name": "Data Warehousing and Business Intelligence",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4207",
+            "name": "Decision Support and Recommender Systems",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4208",
+            "name": "Deep Learning",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4209",
+            "name": "Intelligent System Development",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4210",
+            "name": "Natural Language Processing and Social Interactions",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses - Group 1(C) Network Technology and Infrastructure",
+        "subjects": [
+          {
+            "code": "CSX 4301",
+            "name": "Network Design",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4302",
+            "name": "Cisco Networking Workshop",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4303",
+            "name": "Network Security",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4304",
+            "name": "Network Management",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4305",
+            "name": "Heterogeneous Wireless Networks",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4306",
+            "name": "Internet of Things",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4307",
+            "name": "Business Continuity Planning and Management",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses - Group 1(D) Enterprise Systems",
+        "subjects": [
+          {
+            "code": "CSX 4401",
+            "name": "Business Systems",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4402",
+            "name": "Sales and Distribution Management System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4403",
+            "name": "Manufacturing Management System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4404",
+            "name": "Supply Chain Management System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4405",
+            "name": "Finance and Accounting Information System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4406",
+            "name": "Customer Relationship Management System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4407",
+            "name": "Enterprise Application Development",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4408",
+            "name": "Enterprise Database System",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4409",
+            "name": "Blockchain Technology",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Major Elective Courses Group 2",
+        "subjects": [
+          {
+            "code": "CSX 4501",
+            "name": "Theory of Computation",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4502",
+            "name": "Tech Startup",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4503",
+            "name": "Information Systems Security",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4504",
+            "name": "Digital Marketing ",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4505",
+            "name": "Digital Transformation",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4506",
+            "name": "Image Processing",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4507",
+            "name": "Information Retrieval and Search Engines",
+            "credits": "3"
+          },
+          {
+            "code": "CSX 4508",
+            "name": "Quantitative Research for Digital Business",
+            "credits": "3"
+          }
+        ]
+      },
+      {
+        "groupName": "Professional Ethics Seminar",
+        "subjects": [
+          {
+            "code": "BG 14031",
+            "name": "Professionl Ethics Seminar I",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14032",
+            "name": "Professionl Ethics Seminar II",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14033",
+            "name": "Professionl Ethics Seminar III",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14034",
+            "name": "Professionl Ethics Seminar IV",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14035",
+            "name": "Professionl Ethics Seminar V",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14036",
+            "name": "Professionl Ethics Seminar VI",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14037",
+            "name": "Professionl Ethics Seminar VII",
+            "credits": "0"
+          },
+          {
+            "code": "BG 14038",
+            "name": "Professionl Ethics Seminar VIII",
+            "credits": "0"
+          }
+        ]
+      }
+    ]
+  }
+}
